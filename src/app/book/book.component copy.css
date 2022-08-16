@@ -1,0 +1,8 @@
+li {
+    list-style: none;
+    text-align: center;
+    text-overflow: ellipsis;
+    width: 200px;
+    cursor: pointer;
+    margin-right: 230px;
+}

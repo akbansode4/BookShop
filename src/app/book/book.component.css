@@ -1,0 +1,11 @@
+li {
+    list-style: none;
+    text-align: center;
+    text-overflow: ellipsis;
+    width: 300px;
+    cursor: pointer;
+    margin-right: 100px;
+}
+.img-thumbnail{
+    height: 350px;;
+}
