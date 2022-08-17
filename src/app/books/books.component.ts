@@ -16,8 +16,5 @@ export class BooksComponent implements OnInit {
     this.Books = this.booksService.getBooks();
   }
   isShowing:boolean=true;
-  addToCart(book:Books){
-    console.log(book)
-  }
-
+  
 }
